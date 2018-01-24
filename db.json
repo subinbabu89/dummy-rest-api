@@ -1,0 +1,26 @@
+{
+  "posts": [
+    { "id": 1,
+       "title": "Post 1",
+       "description": "CN Tower Canada",
+       "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/01_canada_cntour.jpg"
+    },
+    { "id": 2,
+       "title": "Post 2",
+       "description": "General Electric Hackathon",
+       "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/02_ge.jpg"
+     },
+    { "id": 3,
+      "title": "Post 3",
+      "description": "Solar Eclipse 2017",
+      "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/03_eclipse2017.jpg"
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
