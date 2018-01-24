@@ -1,19 +1,52 @@
 {
-  "posts": [
+  "wallpapers": [
     { "id": 1,
-       "title": "Post 1",
-       "description": "CN Tower Canada",
-       "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/01_canada_cntour.jpg"
+       "title": "Girl in yellow",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+       "rating": 4.5,
+       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/girl.jpg"
     },
     { "id": 2,
-       "title": "Post 2",
-       "description": "General Electric Hackathon",
-       "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/02_ge.jpg"
-     },
+       "title": "Night Sky",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+       "rating": 4.2,
+       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/night.jpg"
+    },
     { "id": 3,
-      "title": "Post 3",
-      "description": "Solar Eclipse 2017",
-      "imageHref": "https://github.com/koky06faith/RESTAPI/blob/master/images/03_eclipse2017.jpg"
+       "title": "Snowed in lodge",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+       "rating": 4.3,
+       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/snow.jpg"
+    },
+    { "id": 4,
+       "title": "How do I get in",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+       "rating": 4.7,
+       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/snowed-in.jpg"
+    },
+    { "id": 5,
+       "title": "Street in Berlin",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+       "rating": 4.6,
+       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/street-view.jpg"
+    },
+    { "id": 6,
+       "title": "English afternoon",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+       "rating": 4.3,
+       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/tea-cup.jpg"
+    },
+    { "id": 7,
+       "title": "National park xxc ",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+       "rating": 4.4,
+       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/trees.jpg"
+    },
+    { "id": 8,
+       "title": "I dream of a vacation",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+       "rating": 4.5,
+       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/vacation.jpg"
     }
   ],
   "comments": [
@@ -21,6 +54,6 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "subinbabu89"
   }
 }
