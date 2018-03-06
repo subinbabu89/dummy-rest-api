@@ -54,6 +54,48 @@
       }
     ]
   },
+  "flavors":[
+    {
+      "id":1,
+      "title":"Flavor 1",
+      "description":"Some fancy ass description for the juice. Refer to Lau"
+    },
+    {
+      "id":1,
+      "title":"Flavor 2",
+      "description":"Some fancy ass description for the juice. Refer to Lau"
+    },
+    {
+      "id":1,
+      "title":"Flavor 3",
+      "description":"Some fancy ass description for the juice. Refer to Lau"
+    },
+    {
+      "id":1,
+      "title":"Flavor 4",
+      "description":"Some fancy ass description for the juice. Refer to Lau"
+    },
+    {
+      "id":1,
+      "title":"Flavor 5",
+      "description":"Some fancy ass description for the juice. Refer to Lau"
+    },
+    {
+      "id":1,
+      "title":"Flavor 6",
+      "description":"Some fancy ass description for the juice. Refer to Lau"
+    },
+    {
+      "id":1,
+      "title":"Flavor 7",
+      "description":"Some fancy ass description for the juice. Refer to Lau"
+    },
+    {
+      "id":1,
+      "title":"Flavor 8",
+      "description":"Some fancy ass description for the juice. Refer to Lau"
+    }
+  ],
   "wallpapers": [
     { "id": 1,
        "title": "Girl in yellow",
