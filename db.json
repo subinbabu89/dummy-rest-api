@@ -1,156 +1,1603 @@
 {
-  "job":{
-    "current":[
-      {
-        "id":1,
-        "job_name":"Job 1",
-        "started_by":"Subin Babu",
-        "time_to_complete":345
-      },
-      {
-        "id":2,
-        "job_name":"Job 2",
-        "started_by":"Joel Sona",
-        "time_to_complete":445
-      },{
-        "id":1,
-        "job_name":"Job 1",
-        "started_by":"Subin Babu",
-        "time_to_complete":345
-      },
-      {
-        "id":2,
-        "job_name":"Job 2",
-        "started_by":"Joel Sona",
-        "time_to_complete":445
-      },{
-        "id":1,
-        "job_name":"Job 1",
-        "started_by":"Subin Babu",
-        "time_to_complete":345
-      },
-      {
-        "id":2,
-        "job_name":"Job 2",
-        "started_by":"Joel Sona",
-        "time_to_complete":445
-      },{
-        "id":1,
-        "job_name":"Job 1",
-        "started_by":"Subin Babu",
-        "time_to_complete":345
-      },
-      {
-        "id":2,
-        "job_name":"Job 2",
-        "started_by":"Joel Sona",
-        "time_to_complete":445
-      },
-      {
-        "id":1,
-        "job_name":"Job 3",
-        "started_by":"Lau Ardelean",
-        "time_to_complete":45
-      }
-    ]
+  "docs": [
+  {
+   "title_suggest": "Subin khamk\u0101p.",
+   "publish_place": [
+    "[Bangkok"
+   ],
+   "edition_key": [
+    "OL2363316M"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "tha"
+   ],
+   "edition_count": 1,
+   "lccn": [
+    "86918731"
+   ],
+   "last_modified_i": 1419577519,
+   "title": "Subin khamk\u0101p.",
+   "publisher": [
+    "Bunying \u010char\u0153\u0304nying"
+   ],
+   "seed": [
+    "/books/OL2363316M",
+    "/works/OL2363316M"
+   ],
+   "first_publish_year": 1966,
+   "publish_year": [
+    1966
+   ],
+   "key": "/works/OL2363316M",
+   "text": [
+    "OL2363316M",
+    "\u02bbAphiphatthanaphakd\u012b Khun, 1881-1963.",
+    "Subin khamk\u0101p.",
+    "/works/OL2363316M",
+    "Bunying \u010char\u0153\u0304nying",
+    "86918731"
+   ],
+   "contributor": [
+    "\u02bbAphiphatthanaphakd\u012b Khun, 1881-1963."
+   ],
+   "publish_date": [
+    "1966"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
   },
-  "flavors":[
-    {
-      "id":1,
-      "title":"Flavor 1",
-      "description":"Some fancy ass description for the juice. Refer to Lau"
-    },
-    {
-      "id":1,
-      "title":"Flavor 2",
-      "description":"Some fancy ass description for the juice. Refer to Lau"
-    },
-    {
-      "id":1,
-      "title":"Flavor 3",
-      "description":"Some fancy ass description for the juice. Refer to Lau"
-    },
-    {
-      "id":1,
-      "title":"Flavor 4",
-      "description":"Some fancy ass description for the juice. Refer to Lau"
-    },
-    {
-      "id":1,
-      "title":"Flavor 5",
-      "description":"Some fancy ass description for the juice. Refer to Lau"
-    },
-    {
-      "id":1,
-      "title":"Flavor 6",
-      "description":"Some fancy ass description for the juice. Refer to Lau"
-    },
-    {
-      "id":1,
-      "title":"Flavor 7",
-      "description":"Some fancy ass description for the juice. Refer to Lau"
-    },
-    {
-      "id":1,
-      "title":"Flavor 8",
-      "description":"Some fancy ass description for the juice. Refer to Lau"
-    }
-  ],
-  "wallpapers": [
-    { "id": 1,
-       "title": "Girl in yellow",
-       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-       "rating": 4.5,
-       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/girl.jpg"
-    },
-    { "id": 2,
-       "title": "Night Sky",
-       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-       "rating": 4.2,
-       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/night.jpg"
-    },
-    { "id": 3,
-       "title": "Snowed in lodge",
-       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-       "rating": 4.3,
-       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/snow.jpg"
-    },
-    { "id": 4,
-       "title": "How do I get in",
-       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-       "rating": 4.7,
-       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/snowed-in.jpg"
-    },
-    { "id": 5,
-       "title": "Street in Berlin",
-       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-       "rating": 4.6,
-       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/street-view.jpg"
-    },
-    { "id": 6,
-       "title": "English afternoon",
-       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-       "rating": 4.3,
-       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/tea-cup.jpg"
-    },
-    { "id": 7,
-       "title": "National park xxc ",
-       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-       "rating": 4.4,
-       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/trees.jpg"
-    },
-    { "id": 8,
-       "title": "I dream of a vacation",
-       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-       "rating": 4.5,
-       "imageHref": "https://github.com/subinbabu89/dummy-rest-api/blob/master/images/vacation.jpg"
-    }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "subinbabu89"
+  {
+   "title_suggest": "Lin Zexu",
+   "edition_key": [
+    "OL13061404M",
+    "OL22908184M"
+   ],
+   "isbn": [
+    "9575300084",
+    "9789575300081"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL13061404M",
+    "OL22908184M",
+    "9575300084",
+    "9789575300081",
+    "Subin Zhang",
+    "Zhang, Subin.",
+    "OL4168104A",
+    "History",
+    "Biography",
+    "Statesmen",
+    "Zhongguo jin dai hua de xian qu",
+    "Zhongguo jin dai hua di xian qu (Zhongguo ren cong shu. Zhuan ji lei)",
+    "Lin Zexu",
+    "China",
+    "Zhang Sufen  zhu.",
+    "/works/OL10194908W",
+    "You shi wen hua shi ye gong si",
+    "Zexu Lin (1785-1850)",
+    "19th century"
+   ],
+   "author_name": [
+    "Subin Zhang"
+   ],
+   "seed": [
+    "/books/OL13061404M",
+    "/books/OL22908184M",
+    "/works/OL10194908W",
+    "/subjects/statesmen",
+    "/subjects/biography",
+    "/subjects/history",
+    "/subjects/person:zexu_lin_(1785-1850)",
+    "/subjects/place:china",
+    "/subjects/time:19th_century",
+    "/authors/OL4168104A"
+   ],
+   "contributor": [
+    "Zhang, Subin."
+   ],
+   "author_key": [
+    "OL4168104A"
+   ],
+   "subject": [
+    "History",
+    "Biography",
+    "Statesmen"
+   ],
+   "title": "Lin Zexu",
+   "publish_date": [
+    "1989"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Taibei Shi"
+   ],
+   "edition_count": 2,
+   "key": "/works/OL10194908W",
+   "publisher": [
+    "You shi wen hua shi ye gong si"
+   ],
+   "language": [
+    "cmn",
+    "chi"
+   ],
+   "last_modified_i": 1279798767,
+   "person": [
+    "Zexu Lin (1785-1850)"
+   ],
+   "publish_year": [
+    1989
+   ],
+   "first_publish_year": 1989,
+   "place": [
+    "China"
+   ],
+   "time": [
+    "19th century"
+   ]
+  },
+  {
+   "title_suggest": "Die kommerzielle Luftfahrt im heutigen Indien",
+   "edition_key": [
+    "OL24000319M",
+    "OL23870834M"
+   ],
+   "isbn": [
+    "9783860108079",
+    "3860108077"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL24000319M",
+    "OL23870834M",
+    "9783860108079",
+    "3860108077",
+    "Subin Nijhawan",
+    "OL6749724A",
+    "Die kommerzielle Luftfahrt im heutigen Indien",
+    "Subin Nijhawan.",
+    "Commercial Aeronautics",
+    "Airlines",
+    "/works/OL15008848W",
+    "Institut f\u00fcr Indologie und S\u00fcdasienwissenschaften, Martin-Luther-Universit\u00e4t Halle-Wittenberg",
+    "2006455961",
+    "India"
+   ],
+   "author_name": [
+    "Subin Nijhawan"
+   ],
+   "seed": [
+    "/books/OL24000319M",
+    "/books/OL23870834M",
+    "/works/OL15008848W",
+    "/subjects/airlines",
+    "/subjects/commercial_aeronautics",
+    "/subjects/place:india",
+    "/authors/OL6749724A"
+   ],
+   "author_key": [
+    "OL6749724A"
+   ],
+   "subject": [
+    "Commercial Aeronautics",
+    "Airlines"
+   ],
+   "title": "Die kommerzielle Luftfahrt im heutigen Indien",
+   "first_publish_year": 2006,
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Halle (Saale)"
+   ],
+   "edition_count": 2,
+   "key": "/works/OL15008848W",
+   "publisher": [
+    "Institut f\u00fcr Indologie und S\u00fcdasienwissenschaften, Martin-Luther-Universit\u00e4t Halle-Wittenberg"
+   ],
+   "language": [
+    "ger"
+   ],
+   "lccn": [
+    "2006455961"
+   ],
+   "last_modified_i": 1268855639,
+   "publish_year": [
+    2006
+   ],
+   "place": [
+    "India"
+   ],
+   "publish_date": [
+    "2006"
+   ]
+  },
+  {
+   "title_suggest": "Conditional probabilities of occurrence of wet and dry years over a large continental area",
+   "publish_place": [
+    "Fort Collins, Colorado"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL21461638M"
+   ],
+   "last_modified_i": 1264619297,
+   "title": "Conditional probabilities of occurrence of wet and dry years over a large continental area",
+   "publisher": [
+    "Colorado State University"
+   ],
+   "author_name": [
+    "Subin Pinkayan"
+   ],
+   "seed": [
+    "/books/OL21461638M",
+    "/works/OL13389027W",
+    "/authors/OL6279357A"
+   ],
+   "first_publish_year": 1966,
+   "publish_year": [
+    1966
+   ],
+   "key": "/works/OL13389027W",
+   "text": [
+    "OL21461638M",
+    "Subin Pinkayan",
+    "Colorado State University.",
+    "OL6279357A",
+    "Conditional probabilities of occurrence of wet and dry years over a large continental area",
+    "/works/OL13389027W",
+    "Colorado State University",
+    "Conditional probabilities of occurrence of wet and dry years over a large continental area."
+   ],
+   "contributor": [
+    "Colorado State University."
+   ],
+   "publish_date": [
+    "1966"
+   ],
+   "author_key": [
+    "OL6279357A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Ch\u016bgoku no toshi, kenchiku to Nihon",
+   "edition_key": [
+    "OL24576539M"
+   ],
+   "isbn": [
+    "4130662015",
+    "9784130662017"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL24576539M",
+    "4130662015",
+    "9784130662017",
+    "Subin Xu",
+    "449508980",
+    "OL6883557A",
+    "City planning",
+    "Architecture",
+    "Kenchiku-Ch\u016bgoku",
+    "History",
+    "\"shutaiteki juy\u014d\" no kindaishi",
+    "Ch\u016bgoku no toshi, kenchiku to Nihon",
+    "China",
+    "Jo Sohin cho",
+    "/works/OL15628705W",
+    "T\u014dky\u014d Daigaku Shuppankai",
+    "Influence and agency :",
+    "2009395347",
+    "20th century",
+    "19th century"
+   ],
+   "author_name": [
+    "Subin Xu"
+   ],
+   "seed": [
+    "/books/OL24576539M",
+    "/works/OL15628705W",
+    "/subjects/city_planning",
+    "/subjects/history",
+    "/subjects/kenchiku-ch\u016bgoku",
+    "/subjects/architecture",
+    "/subjects/place:china",
+    "/subjects/time:20th_century",
+    "/subjects/time:19th_century",
+    "/authors/OL6883557A"
+   ],
+   "oclc": [
+    "449508980"
+   ],
+   "author_key": [
+    "OL6883557A"
+   ],
+   "subject": [
+    "City planning",
+    "Architecture",
+    "Kenchiku-Ch\u016bgoku",
+    "History"
+   ],
+   "title": "Ch\u016bgoku no toshi, kenchiku to Nihon",
+   "publish_date": [
+    "2009"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "T\u014dky\u014d"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL15628705W",
+   "publisher": [
+    "T\u014dky\u014d Daigaku Shuppankai"
+   ],
+   "language": [
+    "jpn"
+   ],
+   "lccn": [
+    "2009395347"
+   ],
+   "last_modified_i": 1294363643,
+   "publish_year": [
+    2009
+   ],
+   "first_publish_year": 2009,
+   "place": [
+    "China"
+   ],
+   "time": [
+    "20th century",
+    "19th century"
+   ]
+  },
+  {
+   "title_suggest": "An implicit method for tidal rivers",
+   "edition_key": [
+    "OL5242173M"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL5242173M",
+    "Subin Pinkayan.",
+    "Padoong Torranin, joint author.",
+    "OL2016671A",
+    "An implicit method for tidal rivers",
+    "by Subin Pinkayan and Padoong Torranin.",
+    "Estuaries",
+    "Channels (Hydraulic engineering)",
+    "/works/OL7111723W",
+    "Asian Institute of Technology",
+    "75313663"
+   ],
+   "author_name": [
+    "Subin Pinkayan."
+   ],
+   "seed": [
+    "/books/OL5242173M",
+    "/works/OL7111723W",
+    "/subjects/channels_(hydraulic_engineering)",
+    "/subjects/estuaries",
+    "/authors/OL2016671A"
+   ],
+   "contributor": [
+    "Padoong Torranin, joint author."
+   ],
+   "author_key": [
+    "OL2016671A"
+   ],
+   "subject": [
+    "Estuaries",
+    "Channels (Hydraulic engineering)"
+   ],
+   "title": "An implicit method for tidal rivers",
+   "publish_date": [
+    "1970"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Bangkok"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL7111723W",
+   "publisher": [
+    "Asian Institute of Technology"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "75313663"
+   ],
+   "last_modified_i": 1291545275,
+   "publish_year": [
+    1970
+   ],
+   "first_publish_year": 1970
+  },
+  {
+   "title_suggest": "Subin samn\u016ban kao",
+   "publish_place": [
+    "[Nakhon Si Thammarat, Thailand]"
+   ],
+   "edition_key": [
+    "OL1836923M"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "tha"
+   ],
+   "edition_count": 1,
+   "lccn": [
+    "89928507"
+   ],
+   "last_modified_i": 1260576993,
+   "title": "Subin samn\u016ban kao",
+   "publisher": [
+    "N\u016bai Prakhro\u031c S\u016bn Chumnum Songs\u0153\u0304m Watthanatham Thai, Witthay\u0101lai Khr\u016b Nakh\u014d\u031cn S\u012b Thammar\u0101t"
+   ],
+   "author_name": [
+    "Winaith\u014d\u031cn Phra Khr\u016b."
+   ],
+   "seed": [
+    "/books/OL1836923M",
+    "/works/OL4425799W",
+    "/authors/OL877864A"
+   ],
+   "first_publish_year": 1977,
+   "publish_year": [
+    1977
+   ],
+   "key": "/works/OL4425799W",
+   "text": [
+    "OL1836923M",
+    "Winaith\u014d\u031cn Phra Khr\u016b.",
+    "Khun \u02bb\u0100th\u0113tsakhad\u012b.",
+    "Ch\u016ban Ph\u0113tk\u01e3o.",
+    "Wich\u012ban Na Nakh\u014d\u031cn.",
+    "Witthay\u0101lai Khr\u016b Nakh\u014d\u031cn S\u012b Thammar\u0101t. N\u016bai Prakhro\u031c S\u016bn Chumnum Songs\u0153\u0304m Watthanatham Thai.",
+    "OL877864A",
+    "wannakam kh\u014d\u031cng kaw\u012b ch\u0101om\u01b0\u0304ang Nakh\u014d\u031cn S\u012b Thammar\u0101t",
+    "Subin samn\u016ban kao",
+    "botnam r\u01b0\u0304ang d\u014di Khun \u02bb\u0100th\u0113tsakhad\u012b ; khamnam san\u0153\u0304 d\u014di Ch\u016ban Ph\u0113tk\u01e3o ; \u02bbathib\u0101i sap d\u014di Wich\u012ban Na Nakh\u014d\u031cn.",
+    "/works/OL4425799W",
+    "N\u016bai Prakhro\u031c S\u016bn Chumnum Songs\u0153\u0304m Watthanatham Thai, Witthay\u0101lai Khr\u016b Nakh\u014d\u031cn S\u012b Thammar\u0101t",
+    "89928507"
+   ],
+   "contributor": [
+    "Khun \u02bb\u0100th\u0113tsakhad\u012b.",
+    "Ch\u016ban Ph\u0113tk\u01e3o.",
+    "Wich\u012ban Na Nakh\u014d\u031cn.",
+    "Witthay\u0101lai Khr\u016b Nakh\u014d\u031cn S\u012b Thammar\u0101t. N\u016bai Prakhro\u031c S\u016bn Chumnum Songs\u0153\u0304m Watthanatham Thai."
+   ],
+   "publish_date": [
+    "1977"
+   ],
+   "author_key": [
+    "OL877864A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Sat\u010dha sasom sap",
+   "edition_key": [
+    "OL3712717M"
+   ],
+   "isbn": [
+    "9789747346206",
+    "9747346206"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL3712717M",
+    "9789747346206",
+    "9747346206",
+    "Subin Pan\u012bt\u014d Phra.",
+    "Sath\u0101ban Chumchon Th\u014d\u031cngthin Phatthan\u0101 (Thailand)",
+    "55146918",
+    "OL1524299A",
+    "sasom thun sangkhom",
+    "Sat\u010dha sasom sap",
+    "Phra Subin Pan\u012bt\u014d.",
+    "Community development",
+    "Community development credit unions",
+    "/works/OL6050809W",
+    "Sath\u0101ban Chumchon Th\u014d\u031cngthin Phatthan\u0101",
+    "2003312447",
+    "Thailand"
+   ],
+   "author_name": [
+    "Subin Pan\u012bt\u014d Phra."
+   ],
+   "seed": [
+    "/books/OL3712717M",
+    "/works/OL6050809W",
+    "/subjects/community_development",
+    "/subjects/community_development_credit_unions",
+    "/subjects/place:thailand",
+    "/authors/OL1524299A"
+   ],
+   "oclc": [
+    "55146918"
+   ],
+   "contributor": [
+    "Sath\u0101ban Chumchon Th\u014d\u031cngthin Phatthan\u0101 (Thailand)"
+   ],
+   "author_key": [
+    "OL1524299A"
+   ],
+   "subject": [
+    "Community development",
+    "Community development credit unions"
+   ],
+   "title": "Sat\u010dha sasom sap",
+   "publish_date": [
+    "1998"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Krung Th\u0113p Mah\u0101 Nakh\u014d\u031cn"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL6050809W",
+   "publisher": [
+    "Sath\u0101ban Chumchon Th\u014d\u031cngthin Phatthan\u0101"
+   ],
+   "language": [
+    "tha"
+   ],
+   "lccn": [
+    "2003312447"
+   ],
+   "last_modified_i": 1303927312,
+   "publish_year": [
+    1998
+   ],
+   "first_publish_year": 1998,
+   "place": [
+    "Thailand"
+   ]
+  },
+  {
+   "title_suggest": "Mal hara sarang i \u014fdis\u014f wann\u016dn\u02bcga r\u016dl",
+   "publish_place": [
+    "S\u014ful-si"
+   ],
+   "edition_key": [
+    "OL1456758M"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "lccn": [
+    "93111687"
+   ],
+   "last_modified_i": 1260575850,
+   "title": "Mal hara sarang i \u014fdis\u014f wann\u016dn\u02bcga r\u016dl",
+   "publisher": [
+    "Mirae Munhwasa"
+   ],
+   "author_name": [
+    "Su-bin No"
+   ],
+   "seed": [
+    "/books/OL1456758M",
+    "/works/OL3986774W",
+    "/authors/OL731831A"
+   ],
+   "first_publish_year": 1991,
+   "publish_year": [
+    1991
+   ],
+   "key": "/works/OL3986774W",
+   "text": [
+    "OL1456758M",
+    "Su-bin No",
+    "OL731831A",
+    "No Su-bin esei.",
+    "Mal hara sarang i \u014fdis\u014f wann\u016dn\u02bcga r\u016dl",
+    "/works/OL3986774W",
+    "Mirae Munhwasa",
+    "93111687"
+   ],
+   "publish_date": [
+    "1991"
+   ],
+   "author_key": [
+    "OL731831A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "The criminal process",
+   "edition_key": [
+    "OL1740423M"
+   ],
+   "cover_i": 2377871,
+   "isbn": [
+    "0314011269",
+    "9780314011268"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL1740423M",
+    "0314011269",
+    "9780314011268",
+    "Subin, Harry I.",
+    "Weinstein, Ian S., 1959-",
+    "Mirsky, Chester L., 1943-",
+    "OL840130A",
+    "prosecution and defense functions",
+    "The criminal process",
+    "by Harry I. Subin, Chester L. Mirsky, Ian S. Weinstein.",
+    "Defense (Criminal procedure)",
+    "Prosecution",
+    "Preliminary examinations (Criminal procedure)",
+    "/works/OL4317856W",
+    "West Pub. Co.",
+    "92046226",
+    "United States"
+   ],
+   "author_name": [
+    "Subin, Harry I."
+   ],
+   "seed": [
+    "/books/OL1740423M",
+    "/works/OL4317856W",
+    "/subjects/defense_(criminal_procedure)",
+    "/subjects/preliminary_examinations_(criminal_procedure)",
+    "/subjects/prosecution",
+    "/subjects/place:united_states",
+    "/authors/OL840130A"
+   ],
+   "contributor": [
+    "Weinstein, Ian S., 1959-",
+    "Mirsky, Chester L., 1943-"
+   ],
+   "author_key": [
+    "OL840130A"
+   ],
+   "subject": [
+    "Defense (Criminal procedure)",
+    "Prosecution",
+    "Preliminary examinations (Criminal procedure)"
+   ],
+   "title": "The criminal process",
+   "publish_date": [
+    "1993"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "St. Paul, Minn"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL4317856W",
+   "id_goodreads": [
+    "2393683"
+   ],
+   "publisher": [
+    "West Pub. Co."
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "92046226"
+   ],
+   "last_modified_i": 1291470642,
+   "id_librarything": [
+    "8023505"
+   ],
+   "cover_edition_key": "OL1740423M",
+   "publish_year": [
+    1993
+   ],
+   "first_publish_year": 1993,
+   "place": [
+    "United States"
+   ]
+  },
+  {
+   "title_suggest": "Federal criminal practice",
+   "edition_key": [
+    "OL1747016M"
+   ],
+   "isbn": [
+    "0314018670",
+    "9780314018670"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL1747016M",
+    "0314018670",
+    "9780314018670",
+    "Subin, Harry I.",
+    "Weinstein, Ian S., 1959-",
+    "Mirsky, Chester L., 1943-",
+    "27670862",
+    "OL840130A",
+    "prosecution and defense",
+    "Federal criminal practice",
+    "by Harry I. Subin, Chester L. Mirsky, Ian S. Weinstein.",
+    "Defense (Criminal procedure)",
+    "Prosecution",
+    "/works/OL4317857W",
+    "West Pub. Co.",
+    "92061223",
+    "United States"
+   ],
+   "author_name": [
+    "Subin, Harry I."
+   ],
+   "seed": [
+    "/books/OL1747016M",
+    "/works/OL4317857W",
+    "/subjects/defense_(criminal_procedure)",
+    "/subjects/prosecution",
+    "/subjects/place:united_states",
+    "/authors/OL840130A"
+   ],
+   "oclc": [
+    "27670862"
+   ],
+   "contributor": [
+    "Weinstein, Ian S., 1959-",
+    "Mirsky, Chester L., 1943-"
+   ],
+   "author_key": [
+    "OL840130A"
+   ],
+   "subject": [
+    "Defense (Criminal procedure)",
+    "Prosecution"
+   ],
+   "title": "Federal criminal practice",
+   "publish_date": [
+    "1992"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "St. Paul, Minn"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL4317857W",
+   "id_goodreads": [
+    "3794035"
+   ],
+   "publisher": [
+    "West Pub. Co."
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "92061223"
+   ],
+   "last_modified_i": 1307502892,
+   "id_librarything": [
+    "8361720"
+   ],
+   "publish_year": [
+    1992
+   ],
+   "first_publish_year": 1992,
+   "place": [
+    "United States"
+   ]
+  },
+  {
+   "title_suggest": "Into the mist",
+   "publish_place": [
+    "Boston"
+   ],
+   "edition_key": [
+    "OL6031281M"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "oclc": [
+    "37301836"
+   ],
+   "last_modified_i": 1260831873,
+   "title": "Into the mist",
+   "publisher": [
+    "Meador Pub. Co."
+   ],
+   "author_name": [
+    "Ben Harrison Subin"
+   ],
+   "lccn": [
+    "48007981"
+   ],
+   "seed": [
+    "/books/OL6031281M",
+    "/works/OL7413216W",
+    "/authors/OL2235771A"
+   ],
+   "first_publish_year": 1948,
+   "publish_year": [
+    1948
+   ],
+   "key": "/works/OL7413216W",
+   "text": [
+    "OL6031281M",
+    "Ben Harrison Subin",
+    "37301836",
+    "OL2235771A",
+    "Into the mist",
+    "by Ben Harrison [pseud.]",
+    "/works/OL7413216W",
+    "Meador Pub. Co.",
+    "48007981"
+   ],
+   "publish_date": [
+    "1948"
+   ],
+   "author_key": [
+    "OL2235771A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "The practice of federal criminal law",
+   "edition_key": [
+    "OL16355727M"
+   ],
+   "cover_i": 5337107,
+   "isbn": [
+    "9780314146137",
+    "031414613X"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL16355727M",
+    "9780314146137",
+    "031414613X",
+    "Subin, Harry I.",
+    "Berke, Barry H.",
+    "Tirschwell, Eric A.",
+    "63703985",
+    "OL2039329A",
+    "prosecution and defense",
+    "The practice of federal criminal law",
+    "by Harry I. Subiin, Barry H. Berke, and Eric A. Tirschwell.",
+    "Practice of law",
+    "Criminal procedure",
+    "/works/OL7153001W",
+    "Thomson/West",
+    "2006272559",
+    "United States"
+   ],
+   "author_name": [
+    "Subin, Harry I."
+   ],
+   "seed": [
+    "/books/OL16355727M",
+    "/works/OL7153001W",
+    "/subjects/criminal_procedure",
+    "/subjects/practice_of_law",
+    "/subjects/place:united_states",
+    "/authors/OL2039329A"
+   ],
+   "oclc": [
+    "63703985"
+   ],
+   "contributor": [
+    "Berke, Barry H.",
+    "Tirschwell, Eric A."
+   ],
+   "author_key": [
+    "OL2039329A"
+   ],
+   "subject": [
+    "Practice of law",
+    "Criminal procedure"
+   ],
+   "title": "The practice of federal criminal law",
+   "publish_date": [
+    "2006"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "St. Paul, MN"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL7153001W",
+   "id_goodreads": [
+    "2235667"
+   ],
+   "publisher": [
+    "Thomson/West"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2006272559"
+   ],
+   "last_modified_i": 1291391345,
+   "cover_edition_key": "OL16355727M",
+   "publish_year": [
+    2006
+   ],
+   "first_publish_year": 2006,
+   "place": [
+    "United States"
+   ]
+  },
+  {
+   "title_suggest": "Ng\u0101n phrar\u0101tchath\u0101n ph\u0153\u0304ng sop Phra R\u0101tcham\u0113th\u0101k\u014d\u031cnrakaw\u012b (Subin Sum\u0113th\u014d P\u014d\u031c. Th\u014d\u031c. 9) na ch\u0101panasath\u0101n Wat Th\u0113pphanimit, \u014c\u031c. M\u01b0\u0304ang, \u010ch\u014d\u031c. Chach\u0153\u0304ngsao, 31 M\u012bn\u0101khom 2533, w\u0113l\u0101 16.00 no.",
+   "publish_place": [
+    "[Chachoengsao"
+   ],
+   "edition_key": [
+    "OL1257794M"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "tha"
+   ],
+   "edition_count": 1,
+   "lccn": [
+    "94917670"
+   ],
+   "last_modified_i": 1419575830,
+   "title": "Ng\u0101n phrar\u0101tchath\u0101n ph\u0153\u0304ng sop Phra R\u0101tcham\u0113th\u0101k\u014d\u031cnrakaw\u012b (Subin Sum\u0113th\u014d P\u014d\u031c. Th\u014d\u031c. 9) na ch\u0101panasath\u0101n Wat Th\u0113pphanimit, \u014c\u031c. M\u01b0\u0304ang, \u010ch\u014d\u031c. Chach\u0153\u0304ngsao, 31 M\u012bn\u0101khom 2533, w\u0113l\u0101 16.00 no.",
+   "publisher": [
+    "Phra Mah\u0101 Sonph\u014dt Thammaph\u014dtch\u014d"
+   ],
+   "seed": [
+    "/books/OL1257794M",
+    "/works/OL1257794M",
+    "/subjects/phra_r\u0101tcham\u0113th\u0101k\u014d\u031cnrakaw\u012b_(subin)_1916-1989.",
+    "/subjects/buddhism_--_doctrines."
+   ],
+   "first_publish_year": 1990,
+   "publish_year": [
+    1990
+   ],
+   "key": "/works/OL1257794M",
+   "text": [
+    "OL1257794M",
+    "Phra R\u0101tcham\u0113th\u0101k\u014d\u031cnrakaw\u012b (Subin) 1916-1989.",
+    "Ng\u0101n phrar\u0101tchath\u0101n ph\u0153\u0304ng sop Phra R\u0101tcham\u0113th\u0101k\u014d\u031cnrakaw\u012b (Subin Sum\u0113th\u014d P\u014d\u031c. Th\u014d\u031c. 9) na ch\u0101panasath\u0101n Wat Th\u0113pphanimit, \u014c\u031c. M\u01b0\u0304ang, \u010ch\u014d\u031c. Chach\u0153\u0304ngsao, 31 M\u012bn\u0101khom 2533, w\u0113l\u0101 16.00 no.",
+    "Phra R\u0101tcham\u0113th\u0101k\u014d\u031cnrakaw\u012b (Subin) 1916-1989.",
+    "Buddhism -- Doctrines.",
+    "/works/OL1257794M",
+    "Phra Mah\u0101 Sonph\u014dt Thammaph\u014dtch\u014d",
+    "94917670"
+   ],
+   "contributor": [
+    "Phra R\u0101tcham\u0113th\u0101k\u014d\u031cnrakaw\u012b (Subin) 1916-1989."
+   ],
+   "publish_date": [
+    "1990"
+   ],
+   "subject": [
+    "Phra R\u0101tcham\u0113th\u0101k\u014d\u031cnrakaw\u012b (Subin) 1916-1989.",
+    "Buddhism -- Doctrines."
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "\u02bbAnus\u014d\u031cn ng\u0101n phrar\u0101tchath\u0101n phl\u0153\u0304ng sop Phra \u02bbAn\u014dmakhunnamun\u012b (Subin Piyathar\u014d, P\u014d\u031c. Th\u014d\u031c. 5), \u02bbadit \u010dhao khana \u010changwat Chumph\u014d\u031cn na m\u0113n Wat Ph\u014dthik\u0101r\u0101m, T\u014d\u031c. N\u0101 Thung, \u02bb\u014c\u031c. M\u01b0\u0304ang, \u010ch\u014d\u031c. Chumphon, Wanphr\u01b0hatsab\u014d\u031cd\u012b th\u012b 28 M\u012bn\u0101khom Ph\u014d\u031c. S\u014d\u031c. 2534",
+   "publish_place": [
+    "[Chumphon"
+   ],
+   "edition_key": [
+    "OL1380688M"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "tha"
+   ],
+   "edition_count": 1,
+   "lccn": [
+    "92916392"
+   ],
+   "last_modified_i": 1419576954,
+   "title": "\u02bbAnus\u014d\u031cn ng\u0101n phrar\u0101tchath\u0101n phl\u0153\u0304ng sop Phra \u02bbAn\u014dmakhunnamun\u012b (Subin Piyathar\u014d, P\u014d\u031c. Th\u014d\u031c. 5), \u02bbadit \u010dhao khana \u010changwat Chumph\u014d\u031cn na m\u0113n Wat Ph\u014dthik\u0101r\u0101m, T\u014d\u031c. N\u0101 Thung, \u02bb\u014c\u031c. M\u01b0\u0304ang, \u010ch\u014d\u031c. Chumphon, Wanphr\u01b0hatsab\u014d\u031cd\u012b th\u012b 28 M\u012bn\u0101khom Ph\u014d\u031c. S\u014d\u031c. 2534",
+   "publisher": [
+    "Phra Khr\u016b Piyas\u012bl\u0101\u010dh\u0101n"
+   ],
+   "seed": [
+    "/books/OL1380688M",
+    "/works/OL1380688M"
+   ],
+   "first_publish_year": 1991,
+   "publish_year": [
+    1991
+   ],
+   "key": "/works/OL1380688M",
+   "text": [
+    "OL1380688M",
+    "Phra \u02bbAn\u014dmakhunnamun\u012b (Subin), 1920-1990.",
+    "\u02bbAnus\u014d\u031cn ng\u0101n phrar\u0101tchath\u0101n phl\u0153\u0304ng sop Phra \u02bbAn\u014dmakhunnamun\u012b (Subin Piyathar\u014d, P\u014d\u031c. Th\u014d\u031c. 5), \u02bbadit \u010dhao khana \u010changwat Chumph\u014d\u031cn na m\u0113n Wat Ph\u014dthik\u0101r\u0101m, T\u014d\u031c. N\u0101 Thung, \u02bb\u014c\u031c. M\u01b0\u0304ang, \u010ch\u014d\u031c. Chumphon, Wanphr\u01b0hatsab\u014d\u031cd\u012b th\u012b 28 M\u012bn\u0101khom Ph\u014d\u031c. S\u014d\u031c. 2534",
+    "/works/OL1380688M",
+    "Phra Khr\u016b Piyas\u012bl\u0101\u010dh\u0101n",
+    "92916392"
+   ],
+   "contributor": [
+    "Phra \u02bbAn\u014dmakhunnamun\u012b (Subin), 1920-1990."
+   ],
+   "publish_date": [
+    "1991"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Kaheksa eesti t\u00e4nase muusika loojat",
+   "publish_place": [
+    "Tallinn"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "est"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL18369855M"
+   ],
+   "last_modified_i": 1419576844,
+   "title": "Kaheksa eesti t\u00e4nase muusika loojat",
+   "publisher": [
+    "Eesti Raamat"
+   ],
+   "seed": [
+    "/books/OL18369855M",
+    "/works/OL18369855M",
+    "/subjects/composers_--_estonia_--_biography."
+   ],
+   "first_publish_year": 1979,
+   "publish_year": [
+    1979
+   ],
+   "key": "/works/OL18369855M",
+   "text": [
+    "OL18369855M",
+    "\u0160ubin, T.",
+    "Kaheksa eesti t\u00e4nase muusika loojat",
+    "[koostanud T. Subin].",
+    "Composers -- Estonia -- Biography.",
+    "/works/OL18369855M",
+    "Eesti Raamat"
+   ],
+   "contributor": [
+    "\u0160ubin, T."
+   ],
+   "publish_date": [
+    "1979"
+   ],
+   "subject": [
+    "Composers -- Estonia -- Biography."
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Ph\u012bs\u0101o kh\u014d\u031cng rao",
+   "edition_key": [
+    "OL1688946M"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL1688946M",
+    "Saw\u0101ng \u010char\u0153\u0304nphon.",
+    "Buny\u012bam Singkh\u0101nwanit, 1902-1991.",
+    "Subin S\u01b0\u0304psang\u016ban.",
+    "OL823683A",
+    "Ph\u012bs\u0101o kh\u014d\u031cng rao",
+    "Saw\u0101ng \u010char\u0153\u0304nphon. R\u01b0\u0304ang k\u012beokap \u010changwat Chon Bur\u012b / Subin S\u01b0\u0304psang\u016ban.",
+    "Biography",
+    "History",
+    "/works/OL4263650W",
+    "\u02bbAppas\u014d\u031cn Singkh\u0101nwanit",
+    "\u02bbAnus\u014d\u031cn ng\u0101n ch\u0101panakit sop Khun M\u01e3 Buny\u012bam Singkh\u0101nwanit.",
+    "R\u01b0\u0304ang k\u012beokap \u010changwat Chon Bur\u012b.",
+    "91916517",
+    "Buny\u012bam Singkh\u0101nawit (1902-1991)",
+    "Thailand",
+    "Chon Buri (Thailand)"
+   ],
+   "author_name": [
+    "Saw\u0101ng \u010char\u0153\u0304nphon."
+   ],
+   "seed": [
+    "/books/OL1688946M",
+    "/works/OL4263650W",
+    "/subjects/biography",
+    "/subjects/history",
+    "/subjects/person:buny\u012bam_singkh\u0101nawit_(1902-1991)",
+    "/subjects/place:chon_buri_(thailand)",
+    "/subjects/place:thailand",
+    "/authors/OL823683A"
+   ],
+   "contributor": [
+    "Buny\u012bam Singkh\u0101nwanit, 1902-1991.",
+    "Subin S\u01b0\u0304psang\u016ban."
+   ],
+   "author_key": [
+    "OL823683A"
+   ],
+   "subject": [
+    "Biography",
+    "History"
+   ],
+   "title": "Ph\u012bs\u0101o kh\u014d\u031cng rao",
+   "publish_date": [
+    "1991"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "[Bangkok"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL4263650W",
+   "publisher": [
+    "\u02bbAppas\u014d\u031cn Singkh\u0101nwanit"
+   ],
+   "language": [
+    "tha"
+   ],
+   "lccn": [
+    "91916517"
+   ],
+   "last_modified_i": 1291469586,
+   "person": [
+    "Buny\u012bam Singkh\u0101nawit (1902-1991)"
+   ],
+   "publish_year": [
+    1991
+   ],
+   "first_publish_year": 1991,
+   "place": [
+    "Thailand",
+    "Chon Buri (Thailand)"
+   ]
+  },
+  {
+   "title_suggest": "Workbook in introductory physical geography",
+   "edition_key": [
+    "OL5582555M"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL5582555M",
+    "Robert Wilfred Packer",
+    "Subins, Gunars, 1925- joint author.",
+    "OL2113846A",
+    "Workbook in introductory physical geography",
+    "by R. W. Packer and G. Subins.",
+    "Laboratory manuals",
+    "Physical geography",
+    "/works/OL7258397W",
+    "McGraw-Hill Co. of Canada",
+    "67098465"
+   ],
+   "author_name": [
+    "Robert Wilfred Packer"
+   ],
+   "seed": [
+    "/books/OL5582555M",
+    "/works/OL7258397W",
+    "/subjects/laboratory_manuals",
+    "/subjects/physical_geography",
+    "/authors/OL2113846A"
+   ],
+   "contributor": [
+    "Subins, Gunars, 1925- joint author."
+   ],
+   "author_key": [
+    "OL2113846A"
+   ],
+   "subject": [
+    "Laboratory manuals",
+    "Physical geography"
+   ],
+   "title": "Workbook in introductory physical geography",
+   "publish_date": [
+    "1966"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Toronto"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL7258397W",
+   "publisher": [
+    "McGraw-Hill Co. of Canada"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "67098465"
+   ],
+   "last_modified_i": 1291559627,
+   "publish_year": [
+    1966
+   ],
+   "first_publish_year": 1966
+  },
+  {
+   "title_suggest": "Re\u010dnik rusko-srpsko-hrvatski, srpskohrvatsko-ruski",
+   "publish_place": [
+    "Cetinje"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL15221553M"
+   ],
+   "last_modified_i": 1263999053,
+   "publisher": [
+    "Obod"
+   ],
+   "title": "Re\u010dnik rusko-srpsko-hrvatski, srpskohrvatsko-ruski",
+   "subject": [
+    "Russian",
+    "Serbo-Croatian",
+    "Serbo-Croatian language",
+    "Russian language",
+    "Dictionaries"
+   ],
+   "author_name": [
+    "Branislav Gruji\u0107"
+   ],
+   "seed": [
+    "/books/OL15221553M",
+    "/works/OL11459154W",
+    "/subjects/dictionaries",
+    "/subjects/russian",
+    "/subjects/serbo-croatian",
+    "/subjects/russian_language",
+    "/subjects/serbo-croatian_language",
+    "/authors/OL4822432A"
+   ],
+   "first_publish_year": 1961,
+   "publish_year": [
+    1961
+   ],
+   "key": "/works/OL11459154W",
+   "text": [
+    "OL15221553M",
+    "Branislav Gruji\u0107",
+    "Subin, Nikola",
+    "OL4822432A",
+    "Re\u010dnik rusko-srpsko-hrvatski, srpskohrvatsko-ruski",
+    "Russian",
+    "Serbo-Croatian",
+    "Serbo-Croatian language",
+    "Russian language",
+    "Dictionaries",
+    "/works/OL11459154W",
+    "Obod"
+   ],
+   "contributor": [
+    "Subin, Nikola"
+   ],
+   "publish_date": [
+    "1961"
+   ],
+   "author_key": [
+    "OL4822432A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "With\u012b h\u01e3ng tham",
+   "publish_place": [
+    "Krung Th\u0113p"
+   ],
+   "edition_key": [
+    "OL22694388M"
+   ],
+   "isbn": [
+    "9747842939",
+    "9789747842937"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "tha"
+   ],
+   "edition_count": 1,
+   "oclc": [
+    "57437680"
+   ],
+   "last_modified_i": 1419576124,
+   "title": "With\u012b h\u01e3ng tham",
+   "publisher": [
+    "Sath\u0101ban Phatthan\u0101 \u02bbOngk\u01edn Chumchon (\u02bbOngk\u01edn Mah\u0101chon), M\u016bnnithi Chumchon Thai"
+   ],
+   "lccn": [
+    "2002363626"
+   ],
+   "seed": [
+    "/books/OL22694388M",
+    "/works/OL22694388M"
+   ],
+   "first_publish_year": 2002,
+   "publish_year": [
+    2002
+   ],
+   "key": "/works/OL22694388M",
+   "text": [
+    "OL22694388M",
+    "9747842939",
+    "9789747842937",
+    "57437680",
+    "klum sat\u010dha sasom sap ph\u01b0\u0304a phatthan\u0101 khunnatham khrop wong\u010dh\u01edn ch\u012bwit t\u0101m n\u01e3oth\u0101ng kh\u01edng Phra Subin Pan\u012bt\u014d",
+    "With\u012b h\u01e3ng tham",
+    "Suwat Khongp\u01e3n.",
+    "/works/OL22694388M",
+    "Sath\u0101ban Phatthan\u0101 \u02bbOngk\u01edn Chumchon (\u02bbOngk\u01edn Mah\u0101chon), M\u016bnnithi Chumchon Thai",
+    "2002363626"
+   ],
+   "publish_date": [
+    "2002"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "El impero espa\u00f1ol",
+   "edition_key": [
+    "OL22796670M"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL22796670M",
+    "Antonio Igual Ubeda",
+    "Subins Galter, Juan",
+    "OL1710130A",
+    "Civilization",
+    "History",
+    "El impero espa\u00f1ol",
+    "Spain",
+    "Ilus. seleccionadas y classificadas por Juan Subias Galter",
+    "/works/OL6448004W",
+    "Editorial Seix Barral",
+    "El impero espa\u00f1ol.",
+    "56001890",
+    "House of Austria, 1516-1700"
+   ],
+   "author_name": [
+    "Antonio Igual Ubeda"
+   ],
+   "seed": [
+    "/books/OL22796670M",
+    "/works/OL6448004W",
+    "/subjects/civilization",
+    "/subjects/history",
+    "/subjects/place:spain",
+    "/subjects/time:house_of_austria_1516-1700",
+    "/authors/OL1710130A"
+   ],
+   "contributor": [
+    "Subins Galter, Juan"
+   ],
+   "author_key": [
+    "OL1710130A"
+   ],
+   "subject": [
+    "Civilization",
+    "History"
+   ],
+   "title": "El impero espa\u00f1ol",
+   "publish_date": [
+    "1954"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Barcelona"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL6448004W",
+   "publisher": [
+    "Editorial Seix Barral"
+   ],
+   "language": [
+    "spa"
+   ],
+   "lccn": [
+    "56001890"
+   ],
+   "last_modified_i": 1291447421,
+   "publish_year": [
+    1954
+   ],
+   "first_publish_year": 1954,
+   "place": [
+    "Spain"
+   ],
+   "time": [
+    "House of Austria, 1516-1700"
+   ]
+  },
+  {
+   "title_suggest": "Getting into law school",
+   "edition_key": [
+    "OL4430511M"
+   ],
+   "isbn": [
+    "0721686419",
+    "9780721686417"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL4430511M",
+    "0721686419",
+    "9780721686417",
+    "Shapiro, Amy",
+    "Weckesser, Sandra Weaver, joint author.",
+    "5100838",
+    "OL1764068A",
+    "Getting into law school",
+    "Amy Shapiro, Sandra Weaver Weckesser ; with an introd. by Harry I. Subin.",
+    "Admission",
+    "Law schools",
+    "/works/OL6576930W",
+    "Saunders",
+    "79063408",
+    "United States"
+   ],
+   "author_name": [
+    "Shapiro, Amy"
+   ],
+   "seed": [
+    "/books/OL4430511M",
+    "/works/OL6576930W",
+    "/subjects/admission",
+    "/subjects/law_schools",
+    "/subjects/place:united_states",
+    "/authors/OL1764068A"
+   ],
+   "oclc": [
+    "5100838"
+   ],
+   "contributor": [
+    "Weckesser, Sandra Weaver, joint author."
+   ],
+   "author_key": [
+    "OL1764068A"
+   ],
+   "subject": [
+    "Admission",
+    "Law schools"
+   ],
+   "title": "Getting into law school",
+   "publish_date": [
+    "1979"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Philadelphia"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL6576930W",
+   "id_goodreads": [
+    "4320426"
+   ],
+   "publisher": [
+    "Saunders"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "79063408"
+   ],
+   "last_modified_i": 1304069594,
+   "publish_year": [
+    1979
+   ],
+   "first_publish_year": 1979,
+   "place": [
+    "United States"
+   ]
+  },
+  {
+   "title_suggest": "Estudio de transportes urbanos de Asunci\u00f3n",
+   "edition_key": [
+    "OL2907285M"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL2907285M",
+    "Asunci\u00f3n (Paraguay)",
+    "Empresa Brasileira de Planejamento de Transportes.",
+    "Brazil. Departamento de Coopera\u00e7\u00e3o Cultural, Cient\u00edfica e Tecnol\u00f3gica.",
+    "OL1253869A",
+    "propuestas para implantaci\u00f3n inmediata, 1982",
+    "Estudio de transportes urbanos de Asunci\u00f3n",
+    "entidades patrocinadores, Municipalidad de la Ciudad de Asunci\u00f3n [y] Secretaria de Planejamento da Presid\u00eancia da Rep\u00fablica-SEPLAN, Secretaria de Coopera\u00e7\u00e3o Econ\u00f4mica e T\u00e9cnica Internacional-SUBIN [y] Minist\u00e9rio dos Transportes, Empresa Brasileira de Planejamento de Transportes-GEIPOT ; entidad coordinadora, Minist\u00e9rio das Rela\u00e7\u00f5es Exteriores, Departamento de Coopera\u00e7\u00e3o Cultural, Cient\u00edfica e Tecnol\u00f3gica-DCT/MRE ; entidades ejecutoras, Municipalidad de la Ciudad de Asunci\u00f3n [y] Minist\u00e9rio dos Transportes, Empresa Brasileira de Planejamento de Transportes-GEIPOT.",
+    "Maps",
+    "Transportation",
+    "/works/OL5392001W",
+    "GEIPOT",
+    "84137078",
+    "Paraguay",
+    "Asunci\u00f3n"
+   ],
+   "author_name": [
+    "Asunci\u00f3n (Paraguay)"
+   ],
+   "seed": [
+    "/books/OL2907285M",
+    "/works/OL5392001W",
+    "/subjects/maps",
+    "/subjects/transportation",
+    "/subjects/place:asunci\u00f3n",
+    "/subjects/place:paraguay",
+    "/authors/OL1253869A"
+   ],
+   "contributor": [
+    "Empresa Brasileira de Planejamento de Transportes.",
+    "Brazil. Departamento de Coopera\u00e7\u00e3o Cultural, Cient\u00edfica e Tecnol\u00f3gica."
+   ],
+   "author_key": [
+    "OL1253869A"
+   ],
+   "subject": [
+    "Maps",
+    "Transportation"
+   ],
+   "title": "Estudio de transportes urbanos de Asunci\u00f3n",
+   "first_publish_year": 1982,
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "[Bras\u00edlia]"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL5392001W",
+   "publisher": [
+    "GEIPOT"
+   ],
+   "language": [
+    "spa"
+   ],
+   "lccn": [
+    "84137078"
+   ],
+   "last_modified_i": 1291500991,
+   "publish_year": [
+    1982
+   ],
+   "place": [
+    "Paraguay",
+    "Asunci\u00f3n"
+   ],
+   "publish_date": [
+    "1982"
+   ]
   }
+ ]
 }
